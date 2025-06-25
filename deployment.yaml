@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: nginx-custom
-        image: cr.yandex/crpuvcd43esdeav9vcdq/nginx-custom:$BUILD
+        image: $BUILD
