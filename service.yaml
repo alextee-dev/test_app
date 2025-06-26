@@ -4,7 +4,7 @@ metadata:
   name: web-svc
 spec:
   selector:
-    app: web
+    app: test-app
   ports:
   - name: nginx-custom
     protocol: TCP
